@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## DEWMINA_MD-V2 Deployment Methods
 
 ### 1. FORK THIS REPO
 
