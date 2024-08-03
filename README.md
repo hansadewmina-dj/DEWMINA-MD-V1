@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝  DEWMINA_+MD-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DEWMINA+MD;RELEASED+DATE+01%2F7%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/DEWMINA-MD-08-03"/> 
+<img src="https://github.com/hansadewmina-dj/DEWMINA-MD-V1/blob/a4794ffefeb3cf330fd55a82b8ab373c1024c594/lib/assets/DEWMINA_MD.png"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
